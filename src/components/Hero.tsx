@@ -120,18 +120,7 @@ const Hero: React.FC = () => {
                 <div className="w-full h-full bg-white dark:bg-slate-900 rounded-3xl flex items-center justify-center overflow-hidden">
                   <div className="w-full h-full bg-gradient-to-br from-purple-100/50 to-pink-100/50 dark:from-purple-400/20 dark:to-pink-400/20 rounded-3xl flex items-center justify-center">
                     <div className="text-center">
-                      <div className="w-32 h-32 mx-auto bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center mb-6 shadow-lg">
-                        <span className="text-white text-5xl font-bold">SJ</span>
-                      </div>
-                      <div className="text-gray-900 dark:text-white text-lg font-semibold mb-2">
-                        Sandra Jade
-                      </div>
-                      <div className="text-purple-600 dark:text-purple-400 text-sm font-medium">
-                        {t('hero.jobTitle')}
-                      </div>
-                      <div className="text-gray-600 dark:text-gray-400 text-xs mt-1">
-                        {t('hero.subtitle')}
-                      </div>
+                      <div><img src="public/perfil.jpg" alt="Perfil"  style={{ width: '380px', height: 'auto' }} /></div>
                     </div>
                   </div>
                 </div>
