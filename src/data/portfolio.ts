@@ -75,7 +75,7 @@ export const projects: Project[] = [
     technologies: ['React', 'TypeScript', 'SQL'],
     githubUrl: 'https://github.com/Yaz3002/GI_FLORAL',
     demoUrl: 'https://gi-floral.vercel.app/',
-    image: 'public/CAPTURA_GI_FLORAL.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: '/CAPTURA_GI_FLORAL.jpeg?auto=compress&cs=tinysrgb&w=400',
     comingSoon: false
   },
   {
@@ -85,7 +85,7 @@ export const projects: Project[] = [
     technologies: ['TypeScript', 'React', 'Vite'],
     githubUrl: 'https://github.com/Yaz3002/Ecommerce-PetShop',
     demoUrl: 'https://yaz3002.github.io/Ecommerce-PetShop/',
-    image: 'public/CAPTURA_ECOMMERCE.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: '/CAPTURA_ECOMMERCE.jpeg?auto=compress&cs=tinysrgb&w=400',
     comingSoon: false
   },
   {
@@ -95,7 +95,7 @@ export const projects: Project[] = [
     technologies: ['PHP', 'JavaScript', 'HTML'],
     githubUrl: 'https://github.com/Yaz3002/GEORALAB.github.io',
     demoUrl: 'https://yaz3002.github.io/GEORALAB.github.io/',
-    image: 'public/CAPTURA_GEORALAB.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: '/CAPTURA_GEORALAB.jpeg?auto=compress&cs=tinysrgb&w=400',
     comingSoon: false
   }
 ];
