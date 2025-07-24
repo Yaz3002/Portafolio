@@ -120,7 +120,7 @@ const Hero: React.FC = () => {
                 <div className="w-full h-full bg-white dark:bg-slate-900 rounded-3xl flex items-center justify-center overflow-hidden">
                   <div className="w-full h-full bg-gradient-to-br from-purple-100/50 to-pink-100/50 dark:from-purple-400/20 dark:to-pink-400/20 rounded-3xl flex items-center justify-center">
                     <div className="text-center">
-                      <div><img src="/public/perfil.jpg" alt="Perfil"  style={{ width: '380px', height: 'auto' }} /></div>
+                      <div><img src="/perfil.jpg" alt="Perfil"  style={{ width: '380px', height: 'auto' }} /></div>
                     </div>
                   </div>
                 </div>
